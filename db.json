@@ -1,5 +1,6 @@
-
-   [
+{
+   
+[
       {
          "bikeId":"001",
          "photoPath": "\\assets\\img\\bikes\\bike001.jpg",
@@ -107,6 +108,7 @@
       }
 
    ]
+}
   
 
 
